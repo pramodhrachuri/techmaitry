@@ -39,7 +39,7 @@ header,
     }
 }
 
-#gaming, #contact{
+#contact{
     background: url("./img/4.jpg")no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -55,6 +55,13 @@ header,
 }
 #competition{
     background: url("../img/COMPETITIONS/homepage_backgroung.JPG")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#gaming{
+    background: url("../img/GAMING/homepage_backgroung.JPG")no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
