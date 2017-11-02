@@ -67,6 +67,13 @@ header,
     -o-background-size: cover;
     background-size: cover;
 }
+#gallery{
+    background: url("../img/GALLERY/homepage_backgroung.JPG")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
 #contact{
     margin-bottom: -20px;
 }
