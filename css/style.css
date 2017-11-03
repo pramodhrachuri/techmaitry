@@ -46,6 +46,13 @@ header,
     -o-background-size: cover;
     background-size: cover;
 }
+#registration{
+    background: url("../img/REGISTRATION/homepage_backgroung.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
 #workshop{
     background: url("../img/WORKSHOP/homepage_backgroung.JPG")no-repeat center center fixed;
     -webkit-background-size: cover;
