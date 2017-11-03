@@ -81,3 +81,15 @@ header,
 #hoveryellow :hover{
     color:yellow;
 }
+
+#hoverfacebook :hover{
+    color:#5054B4;
+}
+
+#hovertwitter :hover{
+    color:#3191F6;
+}
+
+#hoverinstagram :hover{
+    color:#FC3541;
+}
