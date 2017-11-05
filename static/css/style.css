@@ -45,6 +45,9 @@ header,
     {
         background-color: #000;
     }
+    #techmaitry_logo{
+        padding-top: 1cm;
+    }
 }
 
 @media (min-width: 768px)
@@ -84,9 +87,7 @@ header,
         -o-background-size: cover;
         background-size: cover;
     }
-    #techmaitry_logo{
-        padding-top: 1cm;
-    }
+
 }
 #registration{
     background: url("../img/REGISTRATION/homepage_backgroung.jpg")no-repeat center center fixed;
