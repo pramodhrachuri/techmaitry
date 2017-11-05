@@ -39,43 +39,54 @@ header,
     }
 }
 
-#contact{
-    background: url("../img/CONTACT/homepage_backgroung.jpg")no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+@media (max-width: 768px)
+{
+    #contact,#workshop,#competition,#gaming,#gallery
+    {
+        background-color: #000;
+    }
+}
+
+@media (min-width: 768px)
+{
+    #contact{
+        background: url("../img/CONTACT/homepage_backgroung.jpg")no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+    #workshop{
+        background: url("../img/WORKSHOP/homepage_backgroung.JPG")no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+    #competition{
+        background: url("../img/COMPETITIONS/homepage_backgroung.JPG")no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+    #gaming{
+        background: url("../img/GAMING/homepage_backgroung.JPG")no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+    #gallery{
+        background: url("../img/GALLERY/homepage_backgroung.jpg")no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
 }
 #registration{
     background: url("../img/REGISTRATION/homepage_backgroung.jpg")no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-}
-#workshop{
-    background: url("../img/WORKSHOP/homepage_backgroung.JPG")no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-}
-#competition{
-    background: url("../img/COMPETITIONS/homepage_backgroung.JPG")no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-}
-#gaming{
-    background: url("../img/GAMING/homepage_backgroung.JPG")no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-}
-#gallery{
-    background: url("../img/GALLERY/homepage_backgroung.jpg")no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
