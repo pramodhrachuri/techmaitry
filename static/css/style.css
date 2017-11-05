@@ -45,9 +45,9 @@ header,
     {
         background-color: #000;
     }
-    #techmaitry_main{
+    /*#techmaitry_main{
         padding-top: 1cm;
-    }
+    }*/
 }
 
 @media (min-width: 768px)
